@@ -1,0 +1,6 @@
+Observation 1: Three out of the 5 most popular items to have in game, were also the most profitable for the game.
+
+Observation 2: Even though the age group of "<10" is one of the age groups that has the lowest percentage of players, their average purchase price is much higher than what would be expected.
+
+Observation 3: The percentage of players in each age bracket has an extremely normal distribution, where the age range of 20-24 has the largest percentage of players
+with the imediate surrounding age brackets having lower and lower percentages.
