@@ -1,5 +1,8 @@
 # Pandas Homework - Pandas, Pandas, Pandas
 
+[Image File](Images/Fantasy.png)
+
+
 ## Background
 
 The data dive continues!
